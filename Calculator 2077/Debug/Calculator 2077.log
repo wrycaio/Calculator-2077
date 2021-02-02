@@ -1,0 +1,3 @@
+﻿  Calculator 2077.cpp
+C:\Users\Administrator\source\repos\Calculator 2077\Calculator 2077\Calculator 2077.cpp(127,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Calculator 2077.vcxproj -> C:\Users\Administrator\source\repos\Calculator 2077\Debug\Calculator 2077.exe

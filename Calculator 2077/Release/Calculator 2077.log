@@ -1,0 +1,7 @@
+﻿  Calculator 2077.cpp
+C:\Users\Administrator\source\repos\Calculator 2077\Calculator 2077\Calculator 2077.cpp(135,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 27 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Calculator 2077.vcxproj -> C:\Users\Administrator\source\repos\Calculator 2077\Release\Calculator 2077.exe
